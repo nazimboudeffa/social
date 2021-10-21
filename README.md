@@ -8,4 +8,4 @@ This is my social links
 
 Edit the ODS file with OPEN OFFICE then save as CSV
 
-`python ./social.py`
+`python .\social.py`
